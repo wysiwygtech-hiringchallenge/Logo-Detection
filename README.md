@@ -8,6 +8,8 @@ You main task is to detect **TATA SKY** logo i.e one is expected to come up with
 ## Dataset
 https://drive.google.com/open?id=1yLAY6Ruu4B_RhuvT6kk1mOwrG9NWeYSv
 
+_File is around 500mb so please have a good internet connection while downloading the dataset._
+
 ## Technology
 1. You are allowed to use any technology/language to the best of your knowledege.
 2. In case if you are using any pre trained model or  cloud platform (GCP , AWS or Azure) you will not be provided with any support regarding the account activation. 
