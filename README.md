@@ -3,7 +3,7 @@ This challenge is designed as a part of **hiring challenge** by **WYSIWYGTECH**.
 
 ## Problem Statement
 You are provided a dataset that contains **500+** image file every image will have atleast 1 **TATA SKY** logo.
-You main task is to detect logo **TATA SKY** i.e one is expected to come up with an logo detection algorithm which will return the location of the logo.
+You main task is to detect **TATA SKY** logo i.e one is expected to come up with an logo detection algorithm which will detect **TATA SKY** logo.
 
 ## Dataset
 https://drive.google.com/open?id=1yLAY6Ruu4B_RhuvT6kk1mOwrG9NWeYSv
