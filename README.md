@@ -22,7 +22,5 @@ You should make a zip file containing you solution and the requirements and inst
 You will have 48hrs to complete this task.
 
 ## SAMPLE
-| Input image                                 |  Result                                        |
-|---------------------------------------------|------------------------------------------------|
-|![](sample/TV_Recording_Sample_2 009.jpg)    | ![](sample/TV_Recording_Sample_2 009.jpg)      | 
+![](sample/TV_Recording_Sample_2 009.jpg)     ![](sample/TV_Recording_Sample_2 009.jpg)   
 
