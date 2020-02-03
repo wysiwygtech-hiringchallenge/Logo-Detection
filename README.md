@@ -15,12 +15,14 @@ https://drive.google.com/open?id=1yLAY6Ruu4B_RhuvT6kk1mOwrG9NWeYSv
 ## Minimum Requirement
 1. A.I model that detects **TATA SKY** logo.
 
+## SAMPLE
+![1](sample/sample1.png)     
+![2](sample/sample2.png)   
+
 ## Submission 
 You should make a zip file containing you solution and the requirements and instruction to run your model.
 
 ## Deadline
 You will have 48hrs to complete this task.
 
-## SAMPLE
-![](sample/TV_Recording_Sample_2 009.png)     ![](sample/TV_Recording_Sample_2 009.png)   
 
